@@ -3,7 +3,7 @@ from telebot import types
 import time
 import threading
 
-TOKEN = "8847806274:AAFzIJ3NEfVqT2spEiDLHNHqR4P6qmumfXI"
+TOKEN = "8847806274:AAGo1xRhroqz3A-OwwdCoU3entBWe58NjNA"
 bot = telebot.TeleBot(TOKEN)
 KANAL_ID = "@majburiy_math_2"
 
