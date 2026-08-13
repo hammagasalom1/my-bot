@@ -2,7 +2,7 @@ import telebot
 import sqlite3
 from telebot import types
 
-BOT_TOKEN = "8964494734:AAHlMZ-QRXsSvyN_MGZ8bioCvRX8N0aadYQ"
+BOT_TOKEN = "8692305444:AAFcVp-MW61Xu0P1WIEwJt9h-slxRSuof0Q"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 CHANNEL_USERNAME = "@majburiy_math_2"
